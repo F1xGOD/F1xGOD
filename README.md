@@ -11,7 +11,12 @@ Python Developer: 40%
   Python Packages  60%
 
 Android Developer (Coming Soon!) 0%
+
+Java 40%
+C++ 50%
 </pre>
+i know it wont add up, but who cares anyway?
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](icons.svg)](https://github.com/f1xgod)
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
