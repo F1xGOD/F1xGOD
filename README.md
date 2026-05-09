@@ -24,10 +24,7 @@ i know it wont add up, but who cares anyway?
 [![Top Langs](https://sts.fixcraft.jp/api/top-langs/?username=f1xgod&show_icons=true&layout=compact&theme=transparent&card_width=500px)](https://github.com/f1xgod)
 
 
-<pre>
-Monero Wallet
-48BKksKRWEgixzz1Yec3BH54ybDNCkmmWHLGtXRY42NPJqBowaeD5RTELqgABD1GzBT97pqrjW5PJHsNWzVyQ8zuL6tRBcY
-</pre>
+
 <br>
 
 [![Discord](https://img.shields.io/discord/1130897522051788821?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/3eRHYkjgk8)
