@@ -6,11 +6,11 @@ Full Stack Developer: 60%
   Client-Side (Frontend) Development  40%
 
 Python Developer: 40%
-  GUI Applications  0%
+  GUI Applications  30%
   CLI Applications  40%
   Python Packages  60%
 
-Android Developer (Coming Soon!) 0%
+Android Developer 30%
 
 Java 40%
 C++ 50%
