@@ -3,7 +3,7 @@
 <pre>
 Full Stack Developer: 60%
   Server-Side (Backend) Development  60%
-  Clinet-Side (Frontend) Development  40%
+  Client-Side (Frontend) Development  40%
 
 Python Developer: 40%
   GUI Applications  0%
